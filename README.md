@@ -1,4 +1,4 @@
-![ALT](Images\pexels-photo-185576.webp)
+![ALT](Images/pexels-photo-185576.webp)
 
 
 ### Sales Prediction using Marketing Ad Budget
